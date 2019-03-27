@@ -3,5 +3,7 @@ function takeANumber (current,line){
 }
 
 function nowServing(line){
-  if !linelength ()
+  if (!linelength) {
+    return
+  }
 }
