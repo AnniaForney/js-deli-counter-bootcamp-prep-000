@@ -4,5 +4,5 @@ function takeANumber (current,line){
 
 function nowServing(line){
   if (!linelength) {
-    return ''
+    return 'There is nobody waiting to be served';
 }
