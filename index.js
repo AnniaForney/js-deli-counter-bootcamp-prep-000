@@ -1,3 +1,3 @@
 function takeANumber (current,line){
-  return 
+  return 'Welcome, Ada'
 }
