@@ -3,6 +3,6 @@ function takeANumber (current,line){
 }
 
 function nowServing(line){
-  if (!line.length) {
-    return 'There is nobody waiting to be served';
+  if (!line.length)
+  return ""
 }
